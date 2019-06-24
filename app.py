@@ -3,7 +3,7 @@ from flask import Flask, render_template, session, request, jsonify, current_app
 #from flask_socketio import send, emit
 #from flask_cors import CORS
 #from subprocess import call
-import requests
+# import requests
 #import RPi.GPIO as gpio
 
 
